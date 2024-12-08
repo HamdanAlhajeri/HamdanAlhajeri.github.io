@@ -12,16 +12,3 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
-
-# Add these gems
-group :test do
-  gem "html-proofer", "~> 5.0"
-end
-
-# Required for the theme
-gem "jekyll-paginate"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem "jekyll-feed"
-gem "jekyll-seo-tag"
-gem "jekyll-archives"
