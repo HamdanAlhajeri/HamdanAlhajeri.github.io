@@ -5,9 +5,7 @@ author: Hamdan AlHajeri
 date: 2024-12-5 12:00:00 +0800
 categories: [Projects, Web Development]
 tags: [react, sqlite, docker]
-pin: true
-math: true
-mermaid: true
+pin: false
 ---
 
 # Vehicle Vault
