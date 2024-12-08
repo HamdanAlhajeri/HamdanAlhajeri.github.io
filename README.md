@@ -1,1 +1,1 @@
-I'd like to give a huge thanks to [cptes2020](https://github.com/cotes2020) for creating a theme and allowing free use of it (it took me longer than I'd like to admit to get it working mostly my fault)
+I'd like to give a huge thanks to [cotes2020](https://github.com/cotes2020) for creating a theme and allowing free use of it (it took me longer than I'd like to admit to get it working mostly my fault)
