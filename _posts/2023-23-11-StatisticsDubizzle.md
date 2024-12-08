@@ -2,7 +2,7 @@
 title: Abu Dhabi Rental Market Analysis
 description: Statistical analysis of Abu Dhabi's rental market, focusing on 3-bedroom properties across different neighborhoods.
 author: hamdanalhajeri
-date: 2024-11-23 12:00:00 +0800
+date: 2024-11-23 16:00:00 +0800
 categories: [Projects, Data Analysis]
 tags: [python, statistics, data-visualization]
 pin: false
