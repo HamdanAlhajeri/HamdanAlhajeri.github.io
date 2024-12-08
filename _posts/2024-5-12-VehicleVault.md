@@ -2,7 +2,7 @@
 title: Vehicle Vault
 description: A full-stack web application for buying and selling vehicles, with features for both dealers and customers.
 author: hamdanalhajeri
-date: 2024-12-5 12:00:00 +0800
+date: 2024-5-12 12:00:00 +0800
 categories: [Projects, Web Development]
 tags: [react, sqlite, docker]
 pin: false
