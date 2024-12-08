@@ -3,6 +3,17 @@
 icon: fas fa-info-circle
 order: 4
 ---
+### 👋 Hey there! I'm Hamdan AlHajeri  
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+🎓 I'm a Computer Science student at Khalifa University, set to graduate in Fall 2026. I love building cool stuff with code and learning new tech along the way.  
+
+💻 **Tech I'm into**:  
+- Languages: Java, Python, C and React
+
+
+🏋️ **Fun fact**: If you see this I'm more likely to be at the gym than coding.
+
+📫 **Let’s connect!**  
+- **Email**: [hamdan.alhajeri9877@gmail.com](mailto:hamdan.alhajeri9877@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/hamdan-alhajeri](https://www.linkedin.com/in/hamdan-alhajeri/)  
+- **GitHub**: [github.com/HamdanAlhajeri](https://github.com/HamdanAlhajeri)

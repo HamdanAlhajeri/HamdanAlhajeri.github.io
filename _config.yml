@@ -28,8 +28,8 @@ url: "https://hamdanalhajeri.github.io"
 github:
   username: hamdanalhajeri
 
-twitter:
-  username: your_twitter
+# twitter:
+#   username: your_twitter
 
 social:
   # Change to your full name.
