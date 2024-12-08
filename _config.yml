@@ -16,10 +16,10 @@ timezone: Asia/Dubai
 
 title: Hamdan Alhajeri
 
-tagline: Your preferred tagline
+tagline: Computer Science Student and Aspiring Robotics Engineer
 
 description: >-
-  Your site description here.
+  I'm a computer science student and aspiring robotics engineer. I'm passionate about using technology to solve real-world problems and create innovative solutions.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Hamdan Alhajeri
-  email: your.email@example.com
+  email: hamdan.alhajeri9877@gmail.com
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/hamdanalhajeri
