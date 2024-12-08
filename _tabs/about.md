@@ -5,7 +5,7 @@ order: 4
 ---
 ### 👋 Hey there! I'm Hamdan AlHajeri  
 
-🎓 I'm a Computer Science student at Khalifa University, set to graduate in Fall 2026. I love building cool stuff with code and learning new tech along the way.  
+🎓 I'm a Computer Science student at Khalifa University, set to graduate in Fall 2026. I am aspiring to learn robotics in the future, maybe create a large mech.
 
 💻 **Tech I'm into**:  
 - Languages: Java, Python, C and React
